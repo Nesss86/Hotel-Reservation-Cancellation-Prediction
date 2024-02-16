@@ -26,7 +26,7 @@ I found the three models to be good choices as I wanted to compare a more simpli
 ### Preprocessing
 
 ### Model Selection
-<img src="Images/Model Comparison.png" alt="Notebook" width=50%>
+<img src="Images/Model Comparison.png" alt="Notebook" width=85%>
 
 ## Outcomes
 
