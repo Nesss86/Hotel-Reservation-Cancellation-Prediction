@@ -59,6 +59,8 @@ I found the three models to be good choices as I wanted to compare a more simpli
 Based on feature importance, lead time, average price per room, number of special requests, arrival date and arrival month were top 5 in contributing to model prediction.
 
 <img src="Images/Feature Importance (Hotel Reservations).png" alt="Notebook" width=75%>
+
+Barplot shows amount of canceled reservations based on market segment type with online having the most.
 <img src="Images/Barplot - Market Segement Type.png" alt="Notebook" width=65%>
 
 
