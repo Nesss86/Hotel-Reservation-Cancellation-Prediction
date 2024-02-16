@@ -3,7 +3,7 @@
 ## Project Goals
 The goal of this project was to analyze a hotel reservation dataset and employ machine learning to determine if a customers’ cancellation can be predicted and how accurate would it be. My initial hypothesis was that the further in advance a customer makes a reservation, and the time of year would be the most likely predictor variables. 
 
-
+## Process Approach
 ### EDA
  - Aquired a dataset from Kaggle.com that was comprised of over 36,000+ rows of data and was somewhat clean to start with.
  - Verified the source to confirm dataset was reliable
