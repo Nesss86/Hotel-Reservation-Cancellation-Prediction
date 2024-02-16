@@ -5,7 +5,7 @@ The goal of this project was to analyze a hotel reservation dataset and employ m
 
 ## Process Approach
 ### EDA
- - Aquired a dataset from Kaggle.com that was comprised of over 36,000+ rows of data and was somewhat clean to start with.
+ - Acquired a dataset from Kaggle.com that was comprised of over 36,000+ rows of data and was somewhat clean to start with.
  - Verified the source to confirm dataset was reliable
  - Looked for any domain knowledge that may provide more detail about the data contained
  - Reviewed the csv file to familiarize myself prior to starting my analysis to get an idea of what features I might be able to use to predict cancellation
@@ -24,11 +24,18 @@ I decided to train and test the following 3 models:
 I found the three models to be good choices as I wanted to compare a more simplistic model against two ensemble models to see the difference in perfomance and benefits of each.
 
 ### Preprocessing
+ - Cleaned the data
+ - Transformed where necessary (one-hot encoding because data was categorical and numerical)
+ - Split in to train and test (80/20)
 
 ### Model Selection
 <img src="Images/Model Comparison.png" alt="Notebook" width=85%>
 
 ## Outcomes
+<img src="Images/Classification Report - Logistic Regression.png" alt="Notebook" width=85%>
+<img src="Images/Classification Report - Random Forest.png" alt="Notebook" width=85%>
+<img src="Images/Evalutatin Metrics - GBM.png" alt="Notebook" width=85%>
+
 
 
 
