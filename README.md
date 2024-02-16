@@ -33,13 +33,13 @@ I found the three models to be good choices as I wanted to compare a more simpli
 
 ## Outcomes
 #### Logistic Regression
-<img src="Images/Classification Report - Logistic Regression.png" alt="Notebook" width=85%>
+<img src="Images/Classification Report - Logistic Regression.png" alt="Notebook" width=65%>
 
 #### Random Forest
-<img src="Images/Classification Report - Random Forest.png" alt="Notebook" width=85%>
+<img src="Images/Classification Report - Random Forest.png" alt="Notebook" width=65%>
 
 #### Gradient Boost Machine
-<img src="Images/Evalutation Metrics - GBM.png" alt="Notebook" width=85%>
+<img src="Images/Evaluation Metrics - GBM.png" alt="Notebook" width=65%>
 
 
 
