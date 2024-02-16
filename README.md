@@ -44,7 +44,7 @@ I found the three models to be good choices as I wanted to compare a more simpli
 
 ## Outcomes
 
-<img src="Images/Feature Importance (Hotel Reservations).png" alt="Notebook" width=50%>
+<img src="Images/Feature Importance (Hotel Reservations).png" alt="Notebook" width=75%>
 <img src="Images/Barplot - Market Segement Type.png" alt="Notebook" width=65%>
 
 
