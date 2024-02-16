@@ -13,7 +13,7 @@ The goal of this project was to analyze a hotel reservation dataset and employ m
  - Analyzed the distribution to see if anything was skewed
  - Compare variables and look for correlations to help support my hypothesis early on
 
-<img src="Images/Missing Values Check.png" alt="Notebook" width=30%>                       <img src="Images/Summary Statistics.png" alt="Notebook" width=40%>
+<img src="Images/Missing Values Check.png" alt="Notebook" width=30%>   <img src="Images/Summary Statistics.png" alt="Notebook" width=40%>
 
 ### Model Selection
 I decided to train and test the following 3 models:
@@ -26,7 +26,7 @@ I found the three models to be good choices as I wanted to compare a more simpli
 ### Preprocessing
 
 ### Model Selection
-
+<img src="Images/Model Comparison.png" alt="Notebook" width=50%>
 
 ## Outcomes
 
