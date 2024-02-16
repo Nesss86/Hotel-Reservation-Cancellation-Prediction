@@ -31,7 +31,6 @@ I found the three models to be good choices as I wanted to compare a more simpli
 ### Model Selection
 <img src="Images/Model Comparison.png" alt="Notebook" width=85%>
 
-## Outcomes
 #### Logistic Regression
 <img src="Images/Classification Report - Logistic Regression.png" alt="Notebook" width=65%>
 
@@ -40,6 +39,14 @@ I found the three models to be good choices as I wanted to compare a more simpli
 
 #### Gradient Boost Machine
 <img src="Images/Evaluation Metrics - GBM.png" alt="Notebook" width=65%>
+
+
+
+## Outcomes
+
+<img src="Images/Feature Importance.png" alt="Notebook" width=65%>
+<img src="Images/Bar Plot - Marget Segment Type.png" alt="Notebook" width=65%>
+
 
 
 
