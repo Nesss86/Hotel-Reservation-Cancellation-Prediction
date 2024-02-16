@@ -28,8 +28,12 @@ I found the three models to be good choices as I wanted to compare a more simpli
  - Transformed where necessary (one-hot encoding because data was categorical and numerical)
  - Split in to train and test (80/20)
 
-### Model Selection
+### Model Comparison
 <img src="Images/Model Comparison.png" alt="Notebook" width=85%>
+ - Trained the model on the preprocessed data
+ - Tested using test set of data put aside prior to training
+ - Used cross-validation and grid search to find best hyperparameters to help increase accuracy
+
 
 #### Logistic Regression
 <img src="Images/Classification Report - Logistic Regression.png" alt="Notebook" width=65%>
@@ -38,11 +42,21 @@ I found the three models to be good choices as I wanted to compare a more simpli
 <img src="Images/Classification Report - Random Forest.png" alt="Notebook" width=65%>
 
 #### Gradient Boost Machine
-<img src="Images/Evaluation Metrics - GBM.png" alt="Notebook" width=65%>
+<img src="Images/Evaluation Metrics - GBM.png" alt="Notebook" width=60%>
+
+### Created Pickle Files
+ - Beneficial as it allows easy storage and preserves the model, so you don’t have to retrain
+ - Makes it easier to share
+ - Aids with deployment in API’s
+
+
+
+
 
 
 
 ## Outcomes
+Based on feature importance, lead time, average price per room, number of special requests, arrival date and arrival month were top 5 in contributing to model prediction.
 
 <img src="Images/Feature Importance (Hotel Reservations).png" alt="Notebook" width=75%>
 <img src="Images/Barplot - Market Segement Type.png" alt="Notebook" width=65%>
