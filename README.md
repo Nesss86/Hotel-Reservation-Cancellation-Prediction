@@ -12,7 +12,9 @@ The goal of this project was to analyze a hotel reservation dataset and employ m
  - Looked for nulls and missing information
  - Analyzed the distribution to see if anything was skewed
  - Compare variables and look for correlations to help support my hypothesis early on
+
 <img src="images/Missing Values Check.png" alt="Notebook">
+
 <img src="images/Summary Statistics.png" alt="Notebook">
 
 ### Model Selection
